@@ -1,2 +1,2 @@
-# playable-car-race
-yayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayay
+# synchronousBallMovement
+Ball moving synchronously
